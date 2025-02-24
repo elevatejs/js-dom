@@ -1,1 +1,1 @@
-# js-dom
+JavaScript DOM = Document Object Model
